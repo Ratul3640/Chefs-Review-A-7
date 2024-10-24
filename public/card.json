@@ -1,98 +1,58 @@
+
 [
-    {
-        "id": 1,
-        "recipe_name": "Spicy Chicken Stir Fry",
-        "short_description": "A fiery delight with tender chicken, vibrant veggies, and bold flavors.",
-        "ingredients": [
-            "550g chicken breast",
-            "120ml soy sauce",
-            "200g basil leaves",
-            "400g mushrooms",
-            "3 cloves garlic",
-            "2 red chilies"
-        ],
-        "preparing_time": "30 min",
-        "calories": "320 calories",
-        "recipe_image": "https://i.ibb.co/6tgk0QZ/card1.jpg"
-    },
-    {
-        "id": 2,
-        "recipe_name": "Classic Margherita Pizza",
-        "short_description": "Savor the simplicity of this traditional Italian favorite with a homemade touch.",
-        "ingredients": [
-            "250g pizza dough",
-            "200g mozzarella cheese",
-            "100g tomato sauce",
-            "Fresh basil leaves",
-            "Extra virgin olive oil",
-            "Salt and pepper"
-        ],
-        "preparing_time": "45 min",
-        "calories": "280 calories",
-        "recipe_image": "https://i.ibb.co/6Y6yqGg/card2.jpg"
-    },
-    {
-        "id": 3,
-        "recipe_name": "Creamy Mushroom Risotto",
-        "short_description": "Indulge in velvety Arborio rice enveloped in a luscious mushroom medley.",
-        "ingredients": [
-            "300g Arborio rice",
-            "400g mixed mushrooms",
-            "1L vegetable broth",
-            "100ml white wine",
-            "1 onion",
-            "3 cloves garlic"
-        ],
-        "preparing_time": "40 min",
-        "calories": "380 calories",
-        "recipe_image": "https://i.ibb.co/6tgk0QZ/card1.jpg"
-    },
-    {
-        "id": 4,
-        "recipe_name": "Lemon Herb Grilled Salmon",
-        "short_description": "Tantalize your taste buds with succulent salmon kissed by zesty lemon and aromatic herbs.",
-        "ingredients": [
-            "4 salmon fillets",
-            "2 lemons",
-            "Fresh parsley",
-            "Fresh dill",
-            "Garlic powder",
-            "Salt and pepper"
-        ],
-        "preparing_time": "25 min",
-        "calories": "290 calories",
-        "recipe_image": "https://i.ibb.co/brT878b/card4.jpg"
-    },
-    {
-        "id": 5,
-        "recipe_name": "Vegetable Pad Thai",
-        "short_description": "Take a flavorful trip to Thailand with this vibrant noodle dish bursting with veggies and exotic spices.",
-        "ingredients": [
-            "200g rice noodles",
-            "1 carrot",
-            "1 bell pepper",
-            "100g bean sprouts",
-            "50g peanuts",
-            "2 eggs"
-        ],
-        "preparing_time": "35 min",
-        "calories": "320 calories",
-        "recipe_image": "https://i.ibb.co/0t6XM33/card5.jpg"
-    },
-    {
-        "id": 6,
-        "recipe_name": "Decadent Chocolate Brownies",
-        "short_description": "Indulge your sweet tooth with these fudgy brownies, perfect for any chocolate lover.",
-        "ingredients": [
-            "200g dark chocolate",
-            "150g unsalted butter",
-            "200g granulated sugar",
-            "3 eggs",
-            "100g all-purpose flour",
-            "1 tsp vanilla extract"
-        ],
-        "preparing_time": "50 min",
-        "calories": "250 calories",
-        "recipe_image": "https://i.ibb.co/KxgDJw0/card6.jpg"
-    }
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spicy Chicken Stir Fry",
+    "short_description": "A fiery delight with tender chicken, vibrant veggies, and bold flavors.",
+    "ingredients": ["550g chicken breast", "120ml soy sauce", "200g basil leaves", "400g mushrooms", "3 cloves garlic", "2 red chilies"],
+    "preparing_time": "30 min",
+    "calories": "320 calories",
+    "recipe_image": "https://i.ibb.co/6tgk0QZ/card1.jpg"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Classic Margherita Pizza",
+    "short_description": "Savor the simplicity of this traditional Italian favorite with a homemade touch.",
+    "ingredients": ["250g pizza dough", "200g mozzarella cheese", "100g tomato sauce", "Fresh basil leaves", "Extra virgin olive oil", "Salt and pepper"],
+    "preparing_time": "45 min",
+    "calories": "280 calories",
+    "recipe_image": "https://i.ibb.co/6Y6yqGg/card2.jpg"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Creamy Mushroom Risotto",
+    "short_description": "Indulge in velvety Arborio rice enveloped in a luscious mushroom medley.",
+    "ingredients": ["300g Arborio rice", "400g mixed mushrooms", "1L vegetable broth", "100ml white wine", "1 onion", "3 cloves garlic"],
+    "preparing_time": "40 min",
+    "calories": "380 calories",
+    "recipe_image": "https://i.ibb.co/6tgk0QZ/card1.jpg"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Lemon Herb Grilled Salmon",
+    "short_description": "Tantalize your taste buds with succulent salmon kissed by zesty lemon and aromatic herbs.",
+    "ingredients": ["4 salmon fillets", "2 lemons", "Fresh parsley", "Fresh dill", "Garlic powder", "Salt and pepper"],
+    "preparing_time": "25 min",
+    "calories": "290 calories",
+    "recipe_image": "https://i.ibb.co/brT878b/card4.jpg"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Vegetable Pad Thai",
+    "short_description": "Take a flavorful trip to Thailand with this vibrant noodle dish bursting with veggies and exotic spices.",
+    "ingredients": ["200g rice noodles", "1 carrot", "1 bell pepper", "100g bean sprouts", "50g peanuts", "2 eggs"],
+    "preparing_time": "35 min",
+    "calories": "320 calories",
+    "recipe_image": "https://i.ibb.co/0t6XM33/card5.jpg"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Decadent Chocolate Brownies",
+    "short_description": "Indulge your sweet tooth with these fudgy brownies, perfect for any chocolate lover.",
+    "ingredients": ["200g dark chocolate", "150g unsalted butter", "200g granulated sugar", "3 eggs", "100g all-purpose flour", "1 tsp vanilla extract"],
+    "preparing_time": "50 min",
+    "calories": "250 calories",
+    "recipe_image": "https://i.ibb.co/KxgDJw0/card6.jpg"
+  }
 ]
+

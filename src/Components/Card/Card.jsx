@@ -27,8 +27,9 @@ const Card = ({ card, handleWantToCook }) => {
                         </div> <hr />
                         <div className="mt-5 flex items-center justify-between">
                             <p className="flex items-center gap-1 text-[#282828] text-opacity-70 text-base font-normal"><FaRegClock />
+                                <span>{preparing_time}</span>
                             </p>
-                            <p className="flex items-center gap-1 text-[#282828] text-opacity-70 text-base font-normal"><SlEnergy />
+                            <p className="flex items-center gap-1 text-[#282828] text-opacity-70 text-base font-normal"><SlEnergy /> <span>{calories}</span>
                             </p>
                         </div>
 

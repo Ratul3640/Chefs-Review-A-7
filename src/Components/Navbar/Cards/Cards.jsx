@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 
 
-const Cards = () => {
+const Cards = ({ handleWantToCook }) => {
     const [Cards, setCards] = useState([]);
 
 
@@ -17,7 +17,7 @@ const Cards = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 items-center lg:w-2/3 w-full">
 
             {
-                Cards.map(card =><Card handleWentToCook={handleWentToCook} key={card.id} card={card}></Card>)
+                Cards.map(card => <Card handleWantToCook={handleWantToCook} key={card.recipe_id} card={card}></Card>)
             }
 
         </div>

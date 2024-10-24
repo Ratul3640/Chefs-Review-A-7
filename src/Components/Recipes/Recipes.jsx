@@ -3,7 +3,8 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { useState } from "react";
 import Bookmark from "../Bookmark/Bookmark";
-import Cards from "../Cards/Cards";
+import Cards from '../Navbar/Cards/Cards';
+
 
 
 

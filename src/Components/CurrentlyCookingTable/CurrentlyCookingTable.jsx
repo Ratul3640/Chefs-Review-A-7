@@ -1,6 +1,7 @@
 import CurrentCookingTableHead from "../CurrentCookingTableHead/CurrentCookingTableHead";
-import CurrentlyCookingTableRow from "../CurrentlyCookingTableRow/CurrentlyCookingTableRow";
+
 import PropTypes from 'prop-types';
+import CurrentlyCookingTableRow from "../CurrentlyCookingTableRow/CurrentlyCookingTableRow";
 
 const CurrentlyCookingTable = ({ cookingCarts }) => {
     return (
