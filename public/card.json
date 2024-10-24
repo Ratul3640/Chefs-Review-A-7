@@ -1,6 +1,6 @@
 [
     {
-        "recipe_id": 1,
+        "id": 1,
         "recipe_name": "Spicy Chicken Stir Fry",
         "short_description": "A fiery delight with tender chicken, vibrant veggies, and bold flavors.",
         "ingredients": [
@@ -16,7 +16,7 @@
         "recipe_image": "https://i.ibb.co/6tgk0QZ/card1.jpg"
     },
     {
-        "recipe_id": 2,
+        "id": 2,
         "recipe_name": "Classic Margherita Pizza",
         "short_description": "Savor the simplicity of this traditional Italian favorite with a homemade touch.",
         "ingredients": [
@@ -32,7 +32,7 @@
         "recipe_image": "https://i.ibb.co/6Y6yqGg/card2.jpg"
     },
     {
-        "recipe_id": 3,
+        "id": 3,
         "recipe_name": "Creamy Mushroom Risotto",
         "short_description": "Indulge in velvety Arborio rice enveloped in a luscious mushroom medley.",
         "ingredients": [
@@ -48,7 +48,7 @@
         "recipe_image": "https://i.ibb.co/6tgk0QZ/card1.jpg"
     },
     {
-        "recipe_id": 4,
+        "id": 4,
         "recipe_name": "Lemon Herb Grilled Salmon",
         "short_description": "Tantalize your taste buds with succulent salmon kissed by zesty lemon and aromatic herbs.",
         "ingredients": [
@@ -64,7 +64,7 @@
         "recipe_image": "https://i.ibb.co/brT878b/card4.jpg"
     },
     {
-        "recipe_id": 5,
+        "id": 5,
         "recipe_name": "Vegetable Pad Thai",
         "short_description": "Take a flavorful trip to Thailand with this vibrant noodle dish bursting with veggies and exotic spices.",
         "ingredients": [
@@ -80,7 +80,7 @@
         "recipe_image": "https://i.ibb.co/0t6XM33/card5.jpg"
     },
     {
-        "recipe_id": 6,
+        "id": 6,
         "recipe_name": "Decadent Chocolate Brownies",
         "short_description": "Indulge your sweet tooth with these fudgy brownies, perfect for any chocolate lover.",
         "ingredients": [
